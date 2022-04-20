@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body {
+  background-color:#faf2e4;
+  margin: 0 15%;
+  background-image: url(images/plaid.png);
+}
+h1 {
+  text-align: center;center
+  font-family: serif;
+  border-bottom: 1px solid #57b1dc;
+  margin-top: 30px;
+  color: #517157;
+  text-shadow: #EBF9EE 1px 0 20px;
+}
+h2 {
+  font-family: 'Bebas Neue', cursive;
+  color: #517157;
+  text-align:center;center;
+  text-shadow: #EBF9EE 1px 0 20px;
+  font-size: 2em;
+}
+p {
+  text-align:center;center;
+  font-family:serif;
+  font-size:20px;
+}
+ul, li {
+  text-align:center;center;
+  font-family: sans-serif;
+  display: inline-block;
+}
+ul li a:hover
+    {
+    font-size: 200%;
+    color: #4F62C1;
+}
